@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/openssl/aes.h
+openssl/opensslconf.h
+-
+stddef.h
+-
+
+D:/CLionProjects/new/en_decrypter.cpp
+cstdlib
+D:/CLionProjects/new/cstdlib
+cstring
+D:/CLionProjects/new/cstring
+iostream
+D:/CLionProjects/new/iostream
+C:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/openssl/aes.h
+-
+

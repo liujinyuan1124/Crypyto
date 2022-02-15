@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProjects/new/en_decrypter.cpp
+stdio.h
+D:/CLionProjects/new/stdio.h
+string.h
+D:/CLionProjects/new/string.h
+o_aes.h
+D:/CLionProjects/new/o_aes.h
+
+D:/CLionProjects/new/o_aes.h
+openssl/opensslconf.h
+-
+stddef.h
+-
+

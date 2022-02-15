@@ -1,0 +1,3 @@
+D:/CLionProjects/new/cmake-build-debug-mingw/CMakeFiles/new.dir
+D:/CLionProjects/new/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+D:/CLionProjects/new/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
