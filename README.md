@@ -1,3 +1,3 @@
 # Crypyto
-This project be used to encrypt and decrypt strings.
-Powered by 
+the AES and RSA encrypt algorithm of this program are powered by OpenSSL.
+this program follows the GNU General Public License.
